@@ -14,5 +14,27 @@ There will be push notifications aswell that remind you of your mates highscore 
 * MySql Database
 
 ##Features
+### Basic
+* Save what a user has cleaned up including:
+  * itemName or roomName (choosen from list)
+  * photo(before and after)
+* Edit the list of cleaned items
+* View the status of your flat (what has been cleaned last? whats urgent?)
+* See your profile and your mates profiles including
+  * last cleanup (time, item)
+  * timeline score, highscore, streak
+  * fauxpas counter (amount of missed cleaning sessions === difference between scores was too high)
+  * archievments
+ 
+### Presets
+* Add items and rooms to your flat template (to populate list for itemName and roomName)
+  * calculate points for every single item or room by appending attributes to them.(nastiness,timeConsumptionCleaning,ownership(all,me,notme))
+  * cleaning intervall (how long does it take to get dirty in general ?)
+  * 
 
-##Design
+### Social
+* Share your progress
+* Share point difference between memebers of the flat
+* Share archievments
+
+### Design
