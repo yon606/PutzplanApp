@@ -11,7 +11,7 @@ There will be push notifications aswell that remind you of your mates highscore 
 ##Technical dependencies
 * HTML and CSS interface
 * JavaScript functionality
-* MySql Database
+* MySql Database (maybe PouchDB)
 
 ##Features
 ### Basic
